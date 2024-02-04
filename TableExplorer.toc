@@ -1,0 +1,19 @@
+## Interface: 100205
+## Author: Diesal
+## Version: 1.37
+## Title: |cffffaa00Table Explorer|r
+## Notes: Diesal Developemnt Tools
+## SavedVariables: TableExplorerDB
+## RequiredDeps:
+## OptionalDeps: DiesalLibs, !BugGrabber
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+libs\DiesalTools-1.0\DiesalTools-1.0.lua
+libs\DiesalStyle-1.0\DiesalStyle-1.0.lua
+libs\DiesalGUI-1.0\DiesalGUI-1.0.xml
+libs\DiesalMenu-1.0\DiesalMenu-1.0.xml
+
+core.lua
+objects\TableExplorer.lua
